@@ -62,4 +62,3 @@ This project has not yet been approved for the Plugin Hub. Submission and review
 
 Maintainer: [OliPetri](https://github.com/OliPetri). Code is licensed under the [BSD 2-Clause License](LICENSE).
 
-[Detailed Danish documentation](README.da.md)
