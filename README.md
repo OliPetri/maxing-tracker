@@ -5,7 +5,7 @@ A RuneLite side panel for planning the remaining training time to level 99 in ev
 ## Features
 
 - Remaining XP and estimated time to 99 for each unfinished skill. Skills at 99 are automatically hidden.
-- Manually enter Custom XP/hr or select from 179 training presets, including AFK and ironman options. Rates never follow your measured XP/hr automatically.
+- Manually enter Custom XP/hr or select from 187 training presets, including AFK and ironman options. Rates never follow your measured XP/hr automatically.
 - An overall progress bar caps each skill at the level-99 XP target, so XP above 99 does not inflate progress.
 - **Track my maxing progress** saves your current remaining XP as a starting point. **Reset tracking** starts again from your current XP.
 - **Passive / ignore time** excludes a skill from the time estimate when you plan to train it alongside another skill. Both XP progress bars still include it.
@@ -58,7 +58,7 @@ The existing Java package and configuration group remain `maxingtime` to preserv
 
 ## Plugin Hub status
 
-This project has not yet been approved for the Plugin Hub. Submission and review follow the [official Plugin Hub guide](https://github.com/runelite/plugin-hub#submitting-a-plugin).
+Available through the Plugin Hub. Updates are submitted for review following the [official Plugin Hub guide](https://github.com/runelite/plugin-hub#submitting-a-plugin).
 
-Maintainer: [OliPetri](https://github.com/OliPetri). Code is licensed under the [BSD 2-Clause License](LICENSE).
+Maintainer: [DandelyDoo](https://github.com/OliPetri). Code is licensed under the [BSD 2-Clause License](LICENSE).
 

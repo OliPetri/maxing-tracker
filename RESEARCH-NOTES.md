@@ -48,3 +48,13 @@ De fire illustrerede ikoner fra designforslaget er genfortolket som små origina
 [Runecraft training](https://oldschool.runescape.wiki/w/Pay-to-play_Runecraft_training) har GOTR-benchmarks på 25k, 40k, 50k og 65k ved henholdsvis 40, 50, 75 og 85. Bedste tilgængelige pouches antages; 85-raten forudsætter et lille koordineret hold. Tabellen er ikke opdelt efter combo/non-combo. Begge strategivalg bruger derfor det samme foreløbige niveauestimat, tydeligt mærket “est.”. Det er ikke en påstand om identisk faktisk XP/hr. Ingen opdigtet combo-multiplikator bruges. [Strategiguiden via OSRS Index](https://osrsindex.com/wiki/guardians-of-the-rift-strategies?site=osrs_wiki) beskriver ekstra elemental points samt Magic Imbue, Lunar Diplomacy og binding necklaces; ekstra points betyder ikke samme procent ekstra XP. Vælg Custom for en kendt personlig rate.
 
 [Leechfin via OSRS Index](https://osrsindex.com/wiki/leechfin?site=osrs_wiki) angiver fangstchance 204/256 ved level 90 og 221/256 ved level 99 samt maksimum omkring 131k XP/hr. Vi estimerer 131000 × 204/221 = 120.923, afrundet til 120.900. Antagelsen er samme forsøg/time og spildtid ved begge levels. Det er et højt, modelberegnet benchmark, ikke en observeret level-90 rate. Cutting-varianten bruger sidens omtrentlige reduktion på 40%: 120900 × 0,60 = 72.540. Begge Leechfin-valg er nu level 90; adgang kræver fortsat kun 78 Fishing og questen. Ingen Leechfin-valg har længere benchmark 99.
+
+## 0.9.0: teak and blessed bone shards (2026-09-07)
+
+Read the live OSRS Wiki training pages directly in Chrome. Teak presets use the published training tables: at level 80, 1.5-tick 208,000 and 2-tick 186,000 XP/hr; at level 90, 1.5-tick 222,000 and 2-tick 201,000 XP/hr. Both assume crystal felling axe and forester's rations. The 1.5-tick method uses planted trees on Fossil Island; 2-tick uses an auto-retaliate setup with birds or rabbits. No derived 3-tick rates are included.
+
+Prayer uses the existing-shards table: level range 62–86 has 1,050,000 normal / 1,124,000 sunfire XP/hr, represented at level 70. Level range 88–99 has 1,110,000–1,118,000 normal / 1,320,000–1,420,000 sunfire; the presets use the lower bounds at level 88. These are the Wiki approximate rates as published, not an assumed uniform 20% hourly bonus. They include banking/blessing wine and shrine restoration, with manual offerings. Gathering and processing bones and preparing sunfire wine are excluded.
+
+Sources:
+- https://oldschool.runescape.wiki/w/Pay-to-play_Woodcutting_training#Levels_35–99:_Teak_trees
+- https://oldschool.runescape.wiki/w/Pay-to-play_Prayer_training#By_using_existing_shards
